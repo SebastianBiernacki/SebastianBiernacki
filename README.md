@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A computer science student and a data analyst</h3>
 
-- I’m currently learning **TensorFlow and PyTorch**
+- 🎓 Currently learning **more about machine learning and AI**
 
-<h3 align="left">Connect with me:</h3>
+- 💻 I’m looking to collaborate on **machine learning projects to gain more practical experience in the field**
+
+- ☁️ Looking for opportunities to **explore the world of cloud computing.**
 <p align="left">
 </p>
 
