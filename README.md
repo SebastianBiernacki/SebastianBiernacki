@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A computer science student and a data analyst</h3>
-
-- 🎓 Currently learning **more about machine learning and AI**
-
-- 💻 I’m looking to collaborate on **machine learning projects to gain more practical experience in the field**
-
-- ☁️ Looking for opportunities to **explore the world of cloud computing.**
-
 <p align="left">
 </p>
 
